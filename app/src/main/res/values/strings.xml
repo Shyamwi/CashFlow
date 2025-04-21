@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RecipeHub</string>
+    <string name="search_hint">Search recipes or ingredients</string>
+    <string name="categories">Categories</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+
+    <string name="featured_recipe">Featured Recipe</string>
+    <string name="featured_title">Delicious Srimp Pasta</string>
+    <string name="featured_image_desc">Featured recipe image</string>
+    <string name="view_favorites">View Favorites</string>
+
+    <!-- Breakfast Page -->
+    <string name="breakfast_recipes">Breakfast Recipes</string>
+    <string name="back_button_desc">Back to home</string>
+
+    <string name="breakfast_1_title">Classic Pancakes with Maple Syrup</string>
+    <string name="breakfast_1_desc">Pancakes recipe image</string>
+
+    <string name="breakfast_2_title">Avocado Toast with Poached Eggs</string>
+    <string name="breakfast_2_desc">Avocado toast recipe image</string>
+
+    <string name="breakfast_3_title">Greek Yogurt with Fresh Berries</string>
+    <string name="breakfast_3_desc">Greek yogurt recipe image</string>
+
+    <string name="breakfast_4_title">PFluffy Omelette with Cheese</string>
+    <string name="breakfast_4_desc">Fluffy Omelette with Cheese recipe image</string>
+
+    <string name="breakfast_5_title">Overnight Oats with Berries</string>
+    <string name="breakfast_5_desc">Overnight Oats with Berries recipe image</string>
+
+    <string name="breakfast_6_title">Breakfast Burrito</string>
+    <string name="breakfast_6_desc">Breakfast Burrito recipe image</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_add_recipe">Add Recipe</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Add Recipe Page -->
+    <string name="add_new_recipe">Add New Recipe</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="recipe_title_hint">Enter recipe title</string>
+    <string name="recipe_category">Category</string>
+    <string name="recipe_ingredients">Ingredients</string>
+    <string name="recipe_ingredients_hint">Enter ingredients (one per line)</string>
+    <string name="recipe_instructions">Instructions</string>
+    <string name="recipe_instructions_hint">Enter step-by-step instructions</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="save_recipe">Save Recipe</string>
+
+    <!-- Profile Page -->
+    <string name="profile">Profile</string>
+    <string name="profile_image_desc">Profile picture</string>
+    <string name="edit_profile_image">Edit profile picture</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="bio">Bio</string>
+    <string name="bio_hint">Tell us about yourself</string>
+    <string name="your_stats">Your Statistics</string>
+    <string name="recipes_added">Recipes</string>
+    <string name="favorites">Favorites</string>
+    <string name="likes">Likes</string>
+    <string name="save_profile">Save Profile</string>
+
+</resources>
